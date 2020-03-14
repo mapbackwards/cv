@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=“utf-8”>
+  <title>Pam’s Website</title>
+</head>
+
+<body>
+  <h1>Pam's Website</h1>
+  <p><em>Enablement Manager at ClassPass, JET Alumna, Fitness and Learning Enthusiast</em></p>
+  <p>I love boxing, rock climbing, and strength training. I lived in Japan for 2 years on the JET Program. I've also lived in England, South Africa and India. I love coffee and craft beer (stout and witbier the most!).</p>
+  <hr>
+  <h3>Education<h3>
+    <ul>
+      <li>Rutgers University </li>
+      <li>University of Bristol</li>
+      <li>New York University</li>
+    </ul>
+  <h3>Hobbies</h3>
+   <ol>
+     <li>puzzles</li>
+     <li>reading</li>
+     <li>rock climbing</li>
+     <li>boxing</li>
+     <li>coding</li>
+     <li>beer and wine</li>
+   </ol>
+</html>
